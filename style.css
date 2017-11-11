@@ -1,0 +1,25 @@
+#one{
+	transform: rotate(90deg);
+}
+#yourname{
+	width: 90%;
+}
+#youremail{
+	width: 90%;
+}
+#message{
+	width: 90%;
+} 
+.lower{
+	text-align: center;
+	position: absolute;
+	bottom: .062em;
+	left: 1em;
+	width: 100%;
+	background-color: black;
+	color: white;
+	border-top:0.1875em #c8f442 solid;
+}
+.name{
+	background-color: #c8f442;
+}
